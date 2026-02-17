@@ -14,7 +14,11 @@ Select JQL: project = Android16 ORDER BY created DESC
 <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/f1ef9ea0-fcb0-4878-9baf-701d0aec015d" />
 
 # AI Agent 
+
 AI Agent me System message me batana :
+
 here is my details -
+
 QA Name : Pramod Dutta
+
 You will get the query via the Chat trigger, Your task is to first find the all the JIRA ids from the tool "GET JIRA IDS" and based on the user query, You have to create the unique Testcases and upload them to the Tool "TestCase Sheet" one by one, make sure that testcases are unique and no duplicate are added in the sheet
