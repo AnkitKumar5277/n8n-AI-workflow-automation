@@ -3,6 +3,8 @@
 
 Input : Fetch the JIRA ID and generate the 10 testcases and upload them to the excel file
 
+<img width="923" height="416" alt="image" src="https://github.com/user-attachments/assets/c969ebc1-64ae-4d61-940b-ccf1dabceb48" />
+
 # Memory -> simple memory
 Context Window Length 5 remember last 5 conversation
 
@@ -24,7 +26,4 @@ QA Name : Pramod Dutta
 
 You will get the query via the Chat trigger, Your task is to first find the all the JIRA ids from the tool "GET JIRA IDS" and based on the user query, You have to create the unique Testcases and upload them to the Tool "TestCase Sheet" one by one, make sure that testcases are unique and no duplicate are added in the sheet
 
-<img width="923" height="416" alt="image" src="https://github.com/user-attachments/assets/c969ebc1-64ae-4d61-940b-ccf1dabceb48" />
-
-Problem
-Fetch the JIRA IDs from a project and based on the JIRA IDs, create the test cases and upload them to the Excel file. You also have to read the Google Doc where I have mentioned about my project details
+Input : Fetch the JIRA IDs from a project and based on the JIRA IDs, create the test cases and upload them to the Excel file. You also have to read the Google Doc where I have mentioned about my project details
