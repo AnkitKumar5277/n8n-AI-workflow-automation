@@ -8,5 +8,6 @@ Tool -> Jira
 Select Operation Get Many, Get, Fetch, etc, 
 NOTE: if there is space in your project name then remove middle spaces.
 Select JQL: project = Android16 ORDER BY created DESC
+
 <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/f1ef9ea0-fcb0-4878-9baf-701d0aec015d" />
 
