@@ -27,3 +27,6 @@ QA Name : Pramod Dutta
 You will get the query via the Chat trigger, Your task is to first find the all the JIRA ids from the tool "GET JIRA IDS" and based on the user query, You have to create the unique Testcases and upload them to the Tool "TestCase Sheet" one by one, make sure that testcases are unique and no duplicate are added in the sheet
 
 Input : Fetch the JIRA IDs from a project and based on the JIRA IDs, create the test cases and upload them to the Excel file. You also have to read the Google Doc where I have mentioned about my project details
+
+
+we have successfully created our first AI agent which, based on the chat, it can create a JIRA ticket
