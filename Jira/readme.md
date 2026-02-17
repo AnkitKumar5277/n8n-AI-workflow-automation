@@ -6,6 +6,7 @@ Context Window Length 5 remember last 5 conversation
 
 Tool -> Jira
 Select Operation Get Many, Get, Fetch, etc, 
+
 NOTE: if there is space in your project name then remove middle spaces.
 Select JQL: project = Android16 ORDER BY created DESC
 
