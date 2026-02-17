@@ -1,9 +1,9 @@
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/6caa440b-7311-46bc-898c-1b58e369f216" />
 
-Input : Fetch the JIRA ID and generate the 10 testcases and upload them to the excel file
-
 <img width="923" height="416" alt="image" src="https://github.com/user-attachments/assets/c969ebc1-64ae-4d61-940b-ccf1dabceb48" />
+
+Input : Fetch the JIRA ID and generate the 10 testcases and upload them to the excel file
 
 # Memory -> simple memory
 Context Window Length 5 remember last 5 conversation
